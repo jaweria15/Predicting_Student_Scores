@@ -37,10 +37,8 @@ The following Python libraries are used in this project:
 
 The model provides an estimate of the percentage score based on the number of hours studied. The accuracy of the model is evaluated using RMSE, MSE, and MAE metrics, demonstrating its effectiveness in predicting student scores.
 
-## For questions or feedback, please contact: javeriaf322@gmail.com
-
-
-
 ## Conclusion
 
 This project showcases the implementation of a simple Linear Regression model to predict student scores based on study hours. The relationship between study hours and exam scores is effectively captured, and the model can be used for future predictions.
+
+## For questions or feedback, please contact: javeriaf322@gmail.com
